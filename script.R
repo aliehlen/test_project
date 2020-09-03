@@ -8,8 +8,8 @@ x + 7
 
 
 new_function <- function(x) {
-  print(x+10) 
+  print(x+20) 
 }
 
-hellohello
+hellohellohello
 
